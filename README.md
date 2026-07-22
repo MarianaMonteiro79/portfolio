@@ -101,7 +101,7 @@ components and a mobile application to create a smart video intercom.
 
 ---
 
-### Ró de Mi Shop
+### Do Re Mi Shop
 
 A web application developed as an academic project for managing an online music store.
 
