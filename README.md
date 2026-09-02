@@ -16,6 +16,15 @@ An individual Final Year Project developed for a real carpentry business.
 
 The platform was designed to provide the company with an online presence while also offering customers tools to explore services, view previous work, request quotations and configure custom furniture.
 
+<p align="center">
+  <img src="assets/carpentry/home.png" width="48%" alt="Carpentry Web Platform home page">
+  <img src="assets/carpentry/configurator.png" width="48%" alt="2D furniture configurator">
+</p>
+
+<p align="center">
+  <img src="assets/carpentry/admin.png" width="65%" alt="Administrative dashboard">
+</p>
+
 **My role:**  
 Full project development, including interface design, front-end development, back-end development and database integration.
 
