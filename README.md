@@ -62,11 +62,8 @@ A collaborative project focused on meeting management, analysis and productivity
 - UI design and mockups
 - Responsive design improvements
 - Accessibility and usability analysis
-- Application testing
 
-**Project status:** In development.
-
-> The source code is private due to the collaborative and potentially commercial nature of the project. The main repository is maintained by another team member.
+> I previously contributed to this collaborative project. The source code is private and the main repository is maintained by another team member.
 
 ---
 
@@ -75,6 +72,18 @@ A collaborative project focused on meeting management, analysis and productivity
 An Embedded Systems project that combines a Raspberry Pi, physical hardware and a mobile application to create a smart video intercom.
 
 The system allows users to receive doorbell events, view live video, communicate through audio and remotely open the door through a mobile application.
+
+<table>
+  <tr>
+    <td width="55%" align="center">
+      <img src="assets/portly/mobile-app.png" width="90%" alt="Portly mobile application">
+    </td>
+    <td width="45%" align="center">
+      <img src="assets/portly/prototype.png" width="90%" alt="Portly hardware prototype"><br><br>
+      <img src="assets/portly/architecture.png" width="90%" alt="Portly assembled system">
+    </td>
+  </tr>
+</table>
 
 **My contribution:**
 - Mobile application development
