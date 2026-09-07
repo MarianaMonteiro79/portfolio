@@ -52,21 +52,6 @@ Full project development, including interface design, front-end development, bac
 
 ---
 
-### Meeter AI
-
-A collaborative project focused on meeting management, analysis and productivity.
-
-**My contribution:**
-- Front-End development
-- Interface implementation
-- UI design and mockups
-- Responsive design improvements
-- Accessibility and usability analysis
-
-> I previously contributed to this collaborative project. The source code is private and the main repository is maintained by another team member.
-
----
-
 ### Portly — Smart Video Intercom
 
 An Embedded Systems project that combines a Raspberry Pi, physical hardware and a mobile application to create a smart video intercom.
@@ -128,7 +113,7 @@ The application includes different areas for customers, administrators, employee
 </p>
 
 **My contribution:**  
-I was responsible for the implementation and development of the application code.
+I was responsible for the full implementation of the application code.
 
 **Main features:**
 - User registration and authentication
@@ -183,6 +168,21 @@ The application presents the latest temperature, humidity and air quality readin
 - Firebase Firestore
 
 **Repository:** [View project](https://github.com/MarianaMonteiro79/weatherstation-plus)
+
+---
+
+### Meeter AI
+
+A collaborative project focused on meeting management, analysis and productivity.
+
+**My contribution:**
+- Front-End development
+- Interface implementation
+- UI design and mockups
+- Responsive design improvements
+- Accessibility and usability analysis
+
+> I previously contributed to this collaborative project. The source code is private and the main repository is maintained by another team member.
 
 ---
 
