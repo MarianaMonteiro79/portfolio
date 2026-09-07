@@ -155,6 +155,11 @@ An Android application developed to display and analyse data collected from a we
 
 The application presents the latest temperature, humidity and air quality readings. Users can also select a type of measurement and time interval to analyse historical data through charts.
 
+<p align="center">
+  <img src="assets/weatherstation/home.png" width="32%" alt="WeatherStation+ main screen">
+  <img src="assets/weatherstation/chart.png" width="32%" alt="WeatherStation+ chart">
+</p>
+
 **Main features:**
 - Latest weather station readings
 - Temperature monitoring
