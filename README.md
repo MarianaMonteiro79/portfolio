@@ -122,6 +122,11 @@ A Java web application developed as an academic project for managing an online m
 
 The application includes different areas for customers, administrators, employees and suppliers, supporting both online purchases and physical store management.
 
+<p align="center">
+  <img src="assets/do-re-mi-shop/home.png" width="48%" alt="Do Re Mi Shop home page">
+  <img src="assets/do-re-mi-shop/product-management.png" width="48%" alt="Do Re Mi Shop product management">
+</p>
+
 **My contribution:**  
 I was responsible for the implementation and development of the application code.
 
